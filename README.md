@@ -1,6 +1,6 @@
 # Handwritten-Digit-Recognition
 
-# Handwritten Digit Recognition Using DNN Project Overview
+# Overview
 
 This project implements a Deep Neural Network (DNN) to recognize handwritten digits (0–9) using the MNIST dataset. The project supports both training from scratch and predicting new images. It also includes options to load MNIST as images on your local machine.
 
